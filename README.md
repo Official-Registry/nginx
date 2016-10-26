@@ -1,7 +1,5 @@
-# Nginx  
-  
-Nginx docker image
-  
+# Nginx docker image  
+    
 ## Usage  
   
 `docker run -d --restart always --name mynginx -p 80:80 quay.io/lizhongwen/nginx`  
