@@ -10,7 +10,7 @@ Nginx docker image
   
 ## Environment  
   
-`echo NGINX_VERSION=${NGINX_VERSION }`  
+`echo NGINX_VERSION=${NGINX_VERSION}`  
   
 ## Link  
   
